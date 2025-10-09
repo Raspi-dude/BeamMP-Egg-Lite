@@ -1,4 +1,6 @@
 # Beammp-Egg-Lite
+**STILL HIGHLY EXPERIMENTAL, NUMEROUS BUGS MAY BE PRESENT**  
+
 Modified version of the BeamMP Pterodactyl egg that runs on Alpine Linux to conserve space
 Works on x86_64 and arm64
 
